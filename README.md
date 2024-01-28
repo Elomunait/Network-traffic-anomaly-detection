@@ -52,3 +52,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Original dataset: [ISCXIDS2012](https://www.unb.ca/cic/datasets/ids.html)
 - References: Ali Shiravi, Hadi Shiravi, Mahbod Tavallaee, Ali A. Ghorbani, "Toward developing a systematic approach to generate benchmark datasets for intrusion detection," Computers & Security, Volume 31, Issue 3, May 2012.
+- Sergii Kavun
